@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Hoop-Simulator/main/Hoops%20Simualtor%20script",true))();
